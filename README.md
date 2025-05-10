@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou o Johnny, recém-formado em Sistema de Informação, aspirante a Front-end/Data Science
+<p align="left">Sou o Johnny, recém-formado em Sistema de Informação, aspirante a Dev/Data Science
 </p>
 
 ###
