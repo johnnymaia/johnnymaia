@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=30&center=true&vCenter=true&width=1000&lines=Suporte+em+TI;Desenvolvedor+em+Formação;Criando+Projetos+e+Automações;Sempre+Aprendendo+Novas+Tecnologias" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=30&center=true&vCenter=true&width=1000&lines=Suporte+em+TI;Infraestrutura+de+Redes;Administração+de+Sistemas;Automações+e+Projetos+de+Tecnologia;Sempre+Aprendendo+Novas+Tecnologias" />
 </p>
 
 ---
